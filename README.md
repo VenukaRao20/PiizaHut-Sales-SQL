@@ -1,5 +1,5 @@
 # Business problems to be addressed from beginner to advanced level
-Q1. Retrieve the total number of orders placed\n
+Q1. Retrieve the total number of orders placed </br>
 Q2. Calculate the total revenue from pizza sales
 Q3. Identify the highest pizza price
 Q4. Identify the most common pizza size ordered
